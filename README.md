@@ -1,0 +1,12 @@
+# Project-CreamOS
+- Learned Intel's real mode, developed an actual self efficient bootloader
+- Load sectors from hard disk to memory.
+- Protected mode, all 32 bit OS use
+- Virtual memory, mapping virtual addresses to physical addresses
+- Paging (same address sharing), can prevent process see certain parts of memory, security
+- allocation of memory
+- restrict memory access
+- ELF file format(ELF loader, which have headers) and binary file loading
+- handle malicious programs, paging(via rules), can kill the process
+- handle program crashes
+- interactive shell
